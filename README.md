@@ -1,8 +1,5 @@
 # VinokurovKirill<div align="center">
    <h1>Привет, Я <a href="https://vk.com/kiru_xd">Кирилл</a></h1>
-   
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 <p align='center'>
