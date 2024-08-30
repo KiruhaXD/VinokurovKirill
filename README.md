@@ -69,8 +69,8 @@
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.png" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://i.pinimg.com/736x/53/8d/26/538d268509590e522ea2c80a19a27d2f.jpg" alt="vscode" style="vertical-align:top; margin:4px"> 
+  <img src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/01/visualstudio-1.svg" alt="vs" style="vertical-align:top; margin:4px">
+  <img src="https://i.pinimg.com/736x/53/8d/26/538d268509590e522ea2c80a19a27d2f.svg" alt="unity" style="vertical-align:top; margin:4px"> 
 </p>
 
 <!--
